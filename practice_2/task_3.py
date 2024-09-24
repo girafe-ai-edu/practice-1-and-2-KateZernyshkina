@@ -7,5 +7,5 @@ weight = input()
 height = input()
 
 
-#code here
+print('Your BMI =', float(weight)/float(height)**2)
 
